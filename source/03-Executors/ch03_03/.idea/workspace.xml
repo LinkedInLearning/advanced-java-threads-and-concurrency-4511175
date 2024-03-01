@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ebd694a4-414a-495f-8826-f5bd6b8a16e2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../01-Synchronization/ch01_01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-Synchronization/ch01_01/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-Synchronization/ch01_02/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-Synchronization/ch01_02/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-Synchronization/ch01_03/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-Synchronization/ch01_03/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-Synchronization/ch01_05/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-Synchronization/ch01_05/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-Synchronization/ch01_06_challenge/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-Synchronization/ch01_06_challenge/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-Synchronization/ch01_06_challenge/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-Synchronization/ch01_06_challenge/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-Synchronization/ch01_06_challenge/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-Synchronization/ch01_06_challenge/ch01_06_challenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-Synchronization/ch01_06_challenge/src/InventoryManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-Synchronization/ch01_06_challenge/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-Synchronization/ch01_07_solution/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-Synchronization/ch01_07_solution/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-Synchronization/ch01_07_solution/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-Synchronization/ch01_07_solution/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-Synchronization/ch01_07_solution/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-Synchronization/ch01_07_solution/ch01_07_solution.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-Synchronization/ch01_07_solution/src/InventoryManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-Synchronization/ch01_07_solution/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Asynchronous Programming/ch02_02/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-Asynchronous Programming/ch02_02/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Asynchronous Programming/ch02_05_challenge/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Asynchronous Programming/ch02_05_challenge/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Asynchronous Programming/ch02_05_challenge/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Asynchronous Programming/ch02_05_challenge/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Asynchronous Programming/ch02_05_challenge/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Asynchronous Programming/ch02_05_challenge/ch02_05_challenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Asynchronous Programming/ch02_05_challenge/src/StepFourSolution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Asynchronous Programming/ch02_05_challenge/src/StepOneSolution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Asynchronous Programming/ch02_05_challenge/src/StepThreeSolution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Asynchronous Programming/ch02_05_challenge/src/StepTwoSolution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Asynchronous Programming/ch02_05_challenge/src/SumOfEvenTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Asynchronous Programming/ch02_05_challenge/src/SumOfSquaresTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Asynchronous Programming/ch02_06_solution/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Asynchronous Programming/ch02_06_solution/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Asynchronous Programming/ch02_06_solution/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Asynchronous Programming/ch02_06_solution/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Asynchronous Programming/ch02_06_solution/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Asynchronous Programming/ch02_06_solution/ch02_06_solution.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Asynchronous Programming/ch02_06_solution/src/StepFourSolution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Asynchronous Programming/ch02_06_solution/src/StepOneSolution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Asynchronous Programming/ch02_06_solution/src/StepThreeSolution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Asynchronous Programming/ch02_06_solution/src/StepTwoSolution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Asynchronous Programming/ch02_06_solution/src/SumOfEvenTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Asynchronous Programming/ch02_06_solution/src/SumOfSquaresTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03_05_challenge/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03_05_challenge/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03_05_challenge/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03_05_challenge/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03_05_challenge/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03_05_challenge/ch03_05_challenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03_05_challenge/src/Candidate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03_05_challenge/src/NumberMagic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03_05_challenge/src/VotingSimulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03_06_solution/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03_06_solution/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03_06_solution/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03_06_solution/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03_06_solution/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03_06_solution/ch03_06_solution.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03_06_solution/src/Candidate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03_06_solution/src/NumberMagic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03_06_solution/src/VotingSimulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-Fork-Join Framework/ch04_05_challenge/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-Fork-Join Framework/ch04_05_challenge/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-Fork-Join Framework/ch04_05_challenge/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-Fork-Join Framework/ch04_05_challenge/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-Fork-Join Framework/ch04_05_challenge/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-Fork-Join Framework/ch04_05_challenge/ch04_06.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-Fork-Join Framework/ch04_05_challenge/src/MultiplesCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-Fork-Join Framework/ch04_05_challenge/src/MultiplesCalculatorMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-Fork-Join Framework/ch04_06_solution/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-Fork-Join Framework/ch04_06_solution/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-Fork-Join Framework/ch04_06_solution/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-Fork-Join Framework/ch04_06_solution/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-Fork-Join Framework/ch04_06_solution/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-Fork-Join Framework/ch04_06_solution/ch04_06.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-Fork-Join Framework/ch04_06_solution/src/MultiplesCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-Fork-Join Framework/ch04_06_solution/src/MultiplesCalculatorMain.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2WSy3AtfePHNAWjVb2esbflW7iX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Recording/LI Learning/Courses/Advanced Java Threads and Concurrency/repository/advanced-java-threads-and-concurrency-4511175/source/03-Executors/ch03_04"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ExecutorDemoFour">
+    <configuration name="ExecutorDemoFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExecutorDemoFour" />
+      <module name="ch03_03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExecutorDemoOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExecutorDemoOne" />
+      <module name="ch03_03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExecutorDemoThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExecutorDemoThree" />
+      <module name="ch03_03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExecutorDemoTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExecutorDemoTwo" />
+      <module name="ch03_03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExecutorDemoFour" />
+        <item itemvalue="Application.ExecutorDemoThree" />
+        <item itemvalue="Application.ExecutorDemoTwo" />
+        <item itemvalue="Application.ExecutorDemoOne" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebd694a4-414a-495f-8826-f5bd6b8a16e2" name="Changes" comment="" />
+      <created>1696740075965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696740075965</updated>
+    </task>
+    <servers />
+  </component>
+</project>
