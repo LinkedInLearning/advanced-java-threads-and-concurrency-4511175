@@ -6,6 +6,7 @@ This is the repository for the LinkedIn Learning course `Advanced Java: Threads 
 Are you looking to boost your Java skills? In this course, join instructor and Java expert Buddhini Samarakkody as she provides an overview of Java threads and the new concurrent programming model. Buddhini covers topics in synchronization such as Java thread memory access and associated problems such as race condition and data race. Explore the purpose of synchronization and how to use it, before turning to asynchronous programming with Future and CompletableFuture. Buddhini shows you how to use executors, the fork/join framework and its core classes, concurrent data structures, Project Loom, and virtual threads. Along the way, be sure to test out your new skills in the exercise challenges at the end of each section.
 
 _See the readme file in the main branch for updated instructions and information._
+
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
@@ -24,9 +25,19 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
+ ### Instructor
+
+Buddhini Samarakkody
+
+Java Engineer, Author, Instructor
+        
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/buddhini-samarakkody?u=104).
+
+
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
+[lil-course-url]: https://www.linkedin.com/learning/advanced-java-threads-and-concurrency
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQFM76Oarhc2VA/learning-public-crop_675_1200/0/1712955344085?e=2147483647&v=beta&t=dPEMZnXIX1uXuEz-ILFKUTyjiWKDd0Px7A29okIq6Z0
 
